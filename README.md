@@ -1,8 +1,11 @@
 #tycho-unit-tests
 ================
 
+
 ## Running build with unit tests
 ```mvn clean package```
+
+Build output:
 
 ```
 [INFO] Scanning for projects...
